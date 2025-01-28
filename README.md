@@ -95,8 +95,8 @@ You can edit **source person** and **reference shoe** images paths in `src/main.
 <tr>
 <td> <b> Person Image </b> </td>
 <td> <b> Outpainted Shoes </b> </td>
-<td> <b> Inpainted Right </b> </td>
 <td> <b> Inpainted Left </b> </td>
+<td> <b> Inpainted Right </b> </td>
 </tr> 
 
 <tr>
